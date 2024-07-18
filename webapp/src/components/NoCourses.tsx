@@ -18,7 +18,7 @@ function NoCourses() {
           className="ml-3 h-4 w-4 flex-shrink-0"
         >
           <path
-            stroke-linecap="round"
+            strokeLinecap="round"
             stroke-linejoin="round"
             stroke-width="2"
             d="M14 5l7 7m0 0l-7 7m7-7H3"
